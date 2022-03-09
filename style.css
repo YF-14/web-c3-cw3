@@ -1,0 +1,26 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@700&display=swap');
+
+.text-color {
+    color: aqua;
+    background-color: bisque;
+}
+
+#color{
+color: azure;
+
+}
+
+h1 {
+
+    font-family: 'Amiri', serif;
+
+
+
+}
+
+p {
+
+    font-weight: 900;
+}
